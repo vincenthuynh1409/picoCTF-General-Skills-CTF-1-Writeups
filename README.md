@@ -1,4 +1,6 @@
-## 🔐 Cylabs Security Academy | General Skills in CTF's | CTF Write-ups
+# Cylabs Security Academy | General Skills in CTF's | CTF Write-ups
+
+## Description:
 
 ### 👋 Introduction:
 
@@ -10,8 +12,12 @@ I will be doing *Cylabs Security Academy*'s (ex-picoCTF) **"General Skills in CT
 
 ### 🗺️ Navigation:
 
-There are problem sets in the **"General Skills in CTF's"** learning path, but I will just ignore the sets and just do the write-ups in order. 
+There are problem sets in the **"General Skills in CTF's"** learning path, so in each write-up, the title will include the problem set number and the challenge name/title.
 
-You can navigate through the write-ups by name. Just click on the challenge name you want in this repository (which is a text file)!
+> The write-ups will also be in order.
+
+You can navigate through the write-ups by name. Just click on the challenge name you want in this repository!
+
+> For example, if you are stuck on the "Lets Warm Up" challenge, then click the `Lets Warm Up.md` file (above?) for the write-up!
 
 That's pretty much it. Lets go!
