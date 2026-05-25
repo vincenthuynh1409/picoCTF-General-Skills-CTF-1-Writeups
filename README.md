@@ -8,7 +8,7 @@ Hey! Welcome to my **first** ever CTF write-ups :)
 
 I will be doing *Cylabs Security Academy*'s (ex-picoCTF) **"General Skills in CTF's"** (EASY) Capture The Flag challenges! (learning path)
 
-> My write-ups would be very ***easy to follow*** and ***straight to the point*** + notes for ***future references***!!
+> My write-ups would be very ***easy to follow*** and will include ***in-depth explanations*** (or straight to the point) + ***notes for future reference***!!!
 
 ### 🗺️ Navigation:
 
