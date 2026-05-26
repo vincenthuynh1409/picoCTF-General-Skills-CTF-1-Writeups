@@ -14,9 +14,9 @@ First, we are given `0x70`.
 
 > Computers store information as numbers.<br>
 >
->We normally use "decimal" or "base 10"<br>(0, 1, 2, 3, 4, 5, 6, 7, 8, 9).
+>We normally use **"decimal"** or **"base 10"**<br>(0, 1, 2, 3, 4, 5, 6, 7, 8, 9).
 >
-> But computers often use "hexadecimal" or "base 16"<br>(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F)
+> But computers often use **"hexadecimal"** or **"base 16"**<br>(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F)
 >
 > The `0x` prefix just means "hey, this number is hexadecimal" → so, `0x70` just simply means "70 in hexadecimal".
 >
@@ -36,7 +36,7 @@ So `0x70` in hexadecimal = `112` in normal decimal!
 
 Next, the problem asks what would that decimal would be in ASCII.
 
-> So, what is ASCII?
+> So, what is **ASCII**?
 >
 > "ASCII" simply just encodes/maps/converts numbers (0-127) to letters, numbers, punctuation marks, etc)<br>
 > For example: The decimal number `65` in translates to the character `A`!
@@ -54,7 +54,7 @@ We did it!
 
 Now, since we have the letter, the hint says to wrap it using `picoCTF{ text }`.
 
-So the final flag is: `picoCTF{p}`! 🎉
+So the **final flag** is: `picoCTF{p}`! 🎉
 
 > copy and paste (or manually type) the final flag into the submission area to complete the challenge.
 
