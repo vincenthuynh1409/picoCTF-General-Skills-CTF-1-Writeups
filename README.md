@@ -1,4 +1,4 @@
-# Cylabs Security Academy | General Skills in CTF's | CTF Write-ups
+# Cylabs Security Academy | General Skills in CTF's 1 | CTF Write-ups
 
 ## Description:
 
