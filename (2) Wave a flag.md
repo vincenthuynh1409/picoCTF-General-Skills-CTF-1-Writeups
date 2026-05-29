@@ -54,7 +54,7 @@ After, press Enter.
 
 We should get the flag! (below);
 
-<img width="383" height="68" alt="image" src="https://github.com/user-attachments/assets/b07aa4f3-1d28-4cd8-8cae-43f285544c41" />
+<img width="800" height="167" alt="image" src="https://github.com/user-attachments/assets/b07aa4f3-1d28-4cd8-8cae-43f285544c41" />
 
 So the **final flag** is: `picoCTF{b1scu1ts_4nd_gr4vy_ac5832c}`! 🎉
 
