@@ -27,12 +27,12 @@ Then, (according to the hints) to get the file accessible in your shell, you use
 `wget [file link]`
 
 > `wget` command is simply used to download files from the web!
+>
+> To paste the link you copied from earlier, just right click and click "paste selection"
 
 <img width="738" height="325" alt="image" src="https://github.com/user-attachments/assets/8d754751-8a0e-481d-921a-f7c2a54423a1" />
 
-> To paste the link you copied from earlier, just right click and click "paste selection"
-
-Press enter and the file will download (below):
+Press enter and the file will download (below): 
 
 <img width="370" height="323" alt="image" src="https://github.com/user-attachments/assets/cfbd4532-de20-43a2-8c19-6bb9a2ef131b" />
 
@@ -40,21 +40,24 @@ Press enter and the file will download (below):
 >
 > Do see the file, do the `ls` command
 >
->  The `ls` command just 
+>  The `ls` command just lists the contents of a directory!
 
+<img width="603" height="175" alt="image" src="https://github.com/user-attachments/assets/1c10d9f7-ada5-4ef5-a89e-c3a77d9924e8" />
 
+Now, to get the flag from the "flag" file, we have to read/get the contents from that file.
 
+To do that we use the `cat` command.
 
-<img width="367" height="383" alt="Screenshot 2026-05-28 122429" src="https://github.com/user-attachments/assets/e0f8b637-c789-4f45-9fd8-956d39304d49" />
+> The `cat [file]` command, for this situation, just prints and displays the entire content of a file to the terminal.
 
-The cat command
+So type: `cat flag` into the terminal (below):
 
+<img width="775" height="208" alt="image" src="https://github.com/user-attachments/assets/4e093033-fc68-4fea-bfc4-66fb0ed08814" />
 
+Press Enter, then the terminal should display the flag! (below):
 
+<img width="390" height="102" alt="image" src="https://github.com/user-attachments/assets/de260f94-9068-4dbb-8e8e-21d908793666" />
 
-
-
-
-So the **final flag** is: `picoCTF{101010}`! 🎉
+So the **final flag** is: `picoCTF{s4n1ty_v3r1f13d_9b8fa0bc}`! 🎉
 
 > copy and paste (or manually type) the final flag into the submission area to complete the challenge.
